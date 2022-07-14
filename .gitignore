@@ -1,0 +1,8 @@
+.idea/
+upload.zip
+.vscode/
+__pycache__/
+uploads/
+server.yml
+sync_uploads.sh
+update_lesson.sh

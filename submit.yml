@@ -1,0 +1,9 @@
+url: "http://47.119.123.104:8000/submit"
+lesson_id: 1
+key: "key填入这里"
+doc_url: "https://www.baidu.com"
+upload_files:
+  - "submit.md"
+  - "imgs"  # markdown images
+  - "submit.asset"  # images of submit.md
+  - "task*"  # all the `task` folder
